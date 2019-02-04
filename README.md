@@ -16,24 +16,26 @@ Get 1 of 2 options
 2.1 Oracle Database 12c Administrator Certified Professional
     - Pass OCA
     - Pass  1 of cource (Price depends of course format )
-        Oracle Database 12c: Admin, Install and Upgrade Accelerated  $5,425 - 5,145
+        Oracle Database 12c: Admin, Install and Upgrade Accelerated  $5,425.00 - $5,145.00
         Oracle Database 12c: Administration Workshop                 Not sheduled
-        Oracle Database 12c: Backup and Recovery Workshop.           $3,400-3,675 ($1175 Self study)
-        Oracle Database 12c: Data Guard Administration.              $3,260-3,720
+        Oracle Database 12c: Backup and Recovery Workshop.           $3,400.00 - $3,675.00 ($1,175.00 Self study)
+        Oracle Database 12c: Data Guard Administration.              $3,260.00 - $3,720.00
         Oracle Database 12c: High Availability New Features          $2,640.00
         Oracle Database 12c: Install and Upgrade Workshop            $1,360.00 - $1,550.00 ($710.00)
         Oracle Database 12c: Managing Multitenant Architecture       $1,360.00
-        Oracle Database 12c: New Features for Administrators
-        Oracle Database 12c: Performance Management and Tuning
-        Oracle Database: SQL Tuning for Developers
-        Oracle Database 12c: Clusterware Administration
-        Oracle Database 12c: RAC Administration
-        Oracle Database 12c: Security
-        Exadata Database Machine: 12c Administration Workshop
-        Oracle GoldenGate 12c : Fundamentals for Oracle
-        Oracle Database 12c: Clusterware & RAC Admin Accelerated 
-        Oracle Database 12c: ASM Administration
-        Exadata Database Machine Administration Workshop
+        Oracle Database 12c: New Features for Administrators         $3,400.00
+        Oracle Database 12c: Performance Management and Tuning       $3,400.00 - $3,875.00
+        Oracle Database: SQL Tuning for Developers                   $2,040.00 - $2,325.00
+        Oracle Database 12c: Clusterware Administration              $3,260.00 - $3,720.00
+        Oracle Database 12c: RAC Administration                      $3,260.00 - $3,720.00
+        Oracle Database 12c: Security                                $4,075.00
+        Exadata Database Machine: 12c Administration Workshop        $4,850.00 - $5,500.00       
+        Oracle GoldenGate 12c : Fundamentals for Oracle              $2,720.00 - $3,100.00
+        Oracle Database 12c: Clusterware & RAC Admin Accelerated     $6,520.00 - $7,440.00
+        Oracle Database 12c: ASM Administration                      $1,630.00 - $1,860.00
+        Exadata Database Machine Administration Workshop             Not sheduled
+    - Pass exam
+       Oracle Database 12c: Advanced Administration 1Z0-063          $245
 
 2.2 Database 12cR2 Administration Certified Professional
 
