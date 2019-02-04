@@ -16,13 +16,13 @@ Get 1 of 2 options
 2.1 Oracle Database 12c Administrator Certified Professional
     - Pass OCA
     - Pass  1 of cource (Price depends of course format )
-        Oracle Database 12c: Admin, Install and Upgrade Accelerated  - $5425 - 5145
-        Oracle Database 12c: Administration Workshop                 - Not sheduled
-        Oracle Database 12c: Backup and Recovery Workshop
-        Oracle Database 12c: Data Guard Administration
-        Oracle Database 12c: High Availability New Features
-        Oracle Database 12c: Install and Upgrade Workshop
-        Oracle Database 12c: Managing Multitenant Architecture
+        Oracle Database 12c: Admin, Install and Upgrade Accelerated  $5,425 - 5,145
+        Oracle Database 12c: Administration Workshop                 Not sheduled
+        Oracle Database 12c: Backup and Recovery Workshop.           $3,400-3,675 ($1175 Self study)
+        Oracle Database 12c: Data Guard Administration.              $3,260-3,720
+        Oracle Database 12c: High Availability New Features          $2,640.00
+        Oracle Database 12c: Install and Upgrade Workshop            $1,360.00 - $1,550.00 ($710.00)
+        Oracle Database 12c: Managing Multitenant Architecture       $1,360.00
         Oracle Database 12c: New Features for Administrators
         Oracle Database 12c: Performance Management and Tuning
         Oracle Database: SQL Tuning for Developers
