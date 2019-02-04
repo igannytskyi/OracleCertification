@@ -5,9 +5,7 @@ Level 1 - OCA
 
 Pass 1 of 2 exams
 1.1 Oracle Database 12c SQL 1Z0-071 - $245 
- https://education.oracle.com/products/pexam_1Z0-071
 1.2 Oracle Database 12c: SQL Fundamentals (Retiring November 30, 2019) | 1Z0-061 - $125
- https://education.oracle.com/products/pexam_1Z0-061
 
 Total cost: $125-245
 
