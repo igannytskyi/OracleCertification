@@ -12,7 +12,7 @@ Level 2 - OCP (Need to pass OCA first)
   Get 1 of 2 options
   2.1 Oracle Database 12c Administrator Certified Professional
     - Pass OCA
-    - Pass 1 of cource (Price depends of course format)
+    - Pass 1 of course (Price depends of course format)
         Oracle Database 12c: Admin, Install and Upgrade Accelerated  $5,425.00 - $5,145.00
         Oracle Database 12c: Administration Workshop                 Not sheduled
         Oracle Database 12c: Backup and Recovery Workshop.           $3,400.00 - $3,675.00
@@ -41,7 +41,7 @@ Total cost: min $1,605.00 + OCA
  
 Level 3 - OCM (Need to pass OCM first)
     - Pass OCP
-    - Pass 2 of cource (Price depends of course format)    
+    - Pass 2 of course (Price depends of course format)    
         Oracle Database 12c: Administration Workshop                 Not sheduled
         Oracle Database 12c: Data Guard Administration.              $3,260.00 - $3,720.00
         Oracle Database 12c: High Availability New Features          $2,640.00
