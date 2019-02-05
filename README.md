@@ -1,18 +1,18 @@
-Oracle Certification - January 2019
+Oracle Certification - January 2019  
 
 
-Level 1 - OCA
- Pass 1 of 2 exams
-  1.1 Oracle Database 12c SQL 1Z0-071 - $245 
-  1.2 Oracle Database 12c: SQL Fundamentals (Retiring November 30, 2019) | 1Z0-061 - $125
+Level 1 - OCA  
+ Pass 1 of 2 exams  
+  1.1 Oracle Database 12c SQL 1Z0-071 - $245   
+  1.2 Oracle Database 12c: SQL Fundamentals (Retiring November 30, 2019) | 1Z0-061 - $125  
 
-Total cost: $125.00 - $245.00 (zł833.00)
+Total cost: $125.00 - $245.00 (zł833.00)  
 
-Level 2 - OCP (Need to pass OCA first)
-  Get 1 of 2 options
-  2.1 Oracle Database 12c Administrator Certified Professional
-    - Pass OCA
-    - Pass 1 of course (Price depends of course format)
+Level 2 - OCP (Need to pass OCA first)  
+  Get 1 of 2 options  
+  2.1 Oracle Database 12c Administrator Certified Professional  
+    - Pass OCA  
+    - Pass 1 of course (Price depends of course format)  
         Oracle Database 12c: Admin, Install and Upgrade Accelerated  $5,425.00 - $5,145.00
         Oracle Database 12c: Administration Workshop                 Not sheduled
         Oracle Database 12c: Backup and Recovery Workshop.           $3,400.00 - $3,675.00
